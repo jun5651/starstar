@@ -1,0 +1,67 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id=",5gpUP@wA1kaMEzJa;q3" x="0" y="0"><statement name="HANDLER"><block type="device_show_number" id="{|[-:vp-U6av)xe}A~yN"><value name="number"><shadow type="math_number" id="FCkoDAj):/=Ku@0Z7w!{"><field name="NUM">1111</field></shadow></value><next><block type="device_print_message" id="2SXOO9))2!(d$?N1?l_p"><value name="text"><shadow type="text" id="exSxP4ESca(m8E5@,|x|"><field name="TEXT">You are installing a computer program .apk. </field></shadow></value><next><block type="basic_show_icon" id="V=(]xan=5s_sq=OT4|1P"><field name="i">IconNames.Heart</field><next><block type="device_pause" id="aJ@-dc*OFK#1w^79;,qP"><value name="pause"><shadow type="timePicker" id="n@Q4]Q`oCH0R-#a/zoO_"><field name="ms">500</field></shadow></value><next><block type="basic_show_icon" id=",CRxSaP2_EbL+fzQv.^5"><field name="i">IconNames.SmallHeart</field><next><block type="device_show_leds" id="czkK6efDY7wMq7RSCbW="><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="-Y-XlNn_.%As)V)[|KL2"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # . . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id=",4JWf=}_JNN,%hUF8)8T"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="6b%[TdbFRAR,Ucv99q:|"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # . . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="*~{N24Q1APzy9*`ali~^"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="CD!Y+a}~-BobSy_taTK_"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # . . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="3fGnC{k=yJo9_r{VW0Uz"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # # . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="0}SYPnw#gi}Fiejqa%Oh"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # # . 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="HI(6{%Yu8A0KW93fqmMS"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # # # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="xiQV2(Zn(4o*?f(n.9CA"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        # # # # # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_show_leds" id="u52C6DGt@M](u]VSGXzq"><field name="LEDS">`
+        . . . . # 
+        # . . # . 
+        . # . # . 
+        . . # . . 
+        . . . . .
+        `</field><next><block type="device_pause" id="7^Tx#e74Zj=f.#w6U~Tz"><value name="pause"><shadow type="timePicker" id="x1-$]{O;UH8_!%Nx4/=g"><field name="ms">500</field></shadow></value><next><block type="device_show_number" id="tBTnI(c^2zBr.K/Gbr%B"><value name="number"><shadow type="math_number" id="JXz`KI:f9C-pZFR)CE/@"><field name="NUM">0</field></shadow><block type="math_arithmetic" id="akrw$.MzN16s4(Q8uM0C"><field name="OP">DIVIDE</field><value name="A"><shadow type="math_number" id="[r;$a[XG8T%Rs7XV@^Lg"><field name="NUM">92929292929</field></shadow></value><value name="B"><shadow type="math_number" id="s^7Y=VCv{b.gcdF]lsog"><field name="NUM">38388338</field></shadow></value></block></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
